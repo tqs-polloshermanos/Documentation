@@ -2,9 +2,9 @@
 Project Documentation
 
 The Project is divided into 3 Repositories:
-- Documentation (this one)
-- PollosHermanos-Backend (with the backend code)
-- PollosHermanos-Frontend (with the frontend code)
+- Documentation (this one): https://github.com/tqs-polloshermanos/Documentation
+- PollosHermanos-Backend (with the backend code): https://github.com/tqs-polloshermanos/PollosHermanos-Backend
+- PollosHermanos-Frontend (with the frontend code): https://github.com/tqs-polloshermanos/PollosHermanos-Frontend
 
 Useful links:
 - Project Management (Jira): https://mateusz-kubiak.atlassian.net/jira/software/projects/NA/boards/2?atlOrigin=eyJpIjoiZTIzOWE5MTZjMjQ3NDg3M2E2NjJmODM5MTU3MDdmYzIiLCJwIjoiaiJ9
