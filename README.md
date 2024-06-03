@@ -1,5 +1,5 @@
 # Documentation
-Project Documentation
+Project Documentation (Report, QA Manual, and Presentation)
 
 The Project is divided into 3 Repositories:
 - Documentation (this one): https://github.com/tqs-polloshermanos/Documentation
