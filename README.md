@@ -1,6 +1,11 @@
 # Documentation
 Project Documentation
 
+The Project is divided into 3 Repositories:
+- Documentation (this one)
+- PollosHermanos-Backend (with the backend code)
+- PollosHermanos-Frontend (with the frontend code)
+
 Useful links:
 - Project Management (Jira): https://mateusz-kubiak.atlassian.net/jira/software/projects/NA/boards/2?atlOrigin=eyJpIjoiZTIzOWE5MTZjMjQ3NDg3M2E2NjJmODM5MTU3MDdmYzIiLCJwIjoiaiJ9
 - API Documentation (Swagger): https://app.swaggerhub.com/apis/MARIAJOAOMS03/polloshermanos/1
